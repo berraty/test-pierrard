@@ -1,0 +1,51 @@
+/*
+* {
+    margin: 10;
+    padding: 10;}
+*/ 
+
+@media screen and (max-width: 1024px) {
+    h1 {
+        color: red;
+        background-color: black;
+          }
+}
+
+body {
+	background-color:grey;}
+	header {background-color:rgb(60,60,60);}
+.imag {
+		text-align:center;}
+#imm {
+	margin : 10px;
+	border: 2px blue double;
+	}
+#carte{
+	text-align:center;}
+h1{
+	text-align:center;
+	font-size:80px;}
+table{
+	border-collapse:collapse;
+	margin:auto;
+	text-align:center;
+}
+td { border: 1px black solid;
+	padding: 20px;
+	width : 30%;
+    margin:10px;}
+table a {
+	text-decoration:none;
+	border: 2px yellow solid;
+    font-size:30px;
+margin:5px;}
+
+ul {
+	margin-left:100px;}
+audio { 
+	border-radius: 20px;
+	border: 5px black solid;
+	text-align:right;}
+
+	
+/* Nouvelles règles si la fenêtre fait au plus 1024px de large */
